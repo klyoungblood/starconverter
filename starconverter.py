@@ -16,7 +16,7 @@ decdeg=float(d)
 decmin=float(m)
 decsec=float(s)
 
-ly = input ("Ender distance from sol system in Light Years: ")
+ly = input ("Enter distance from sol system in Light Years: ")
 
 rho=float(ly)
 
